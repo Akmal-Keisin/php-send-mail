@@ -1,1 +1,1 @@
-hi
+Simple implementation of how to send email with php.

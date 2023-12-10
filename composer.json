@@ -1,0 +1,18 @@
+{
+    "name": "akmalkeisin/send-mail",
+    "description": "simple implementation of how to send email with php",
+    "require": {
+        "phpmailer/phpmailer": "^6.9"
+    },
+    "autoload": {
+        "psr-4": {
+            "Akmalkeisin\\SendMail\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Akmal-Keisin",
+            "email": "akmalkeisin@gmail.com"
+        }
+    ]
+}
